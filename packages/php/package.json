@@ -1,13 +1,13 @@
 {
-  "name": "now-php",
+  "name": "@barnebys/now-php",
   "description": "PHP ZEIT Now Runtime",
   "version": "0.0.10",
   "license": "MIT",
   "main": "./dist/index.js",
-  "homepage": "https://github.com/juicyfx/now-php",
+  "homepage": "https://github.com/barnebys/now-php",
   "repository": {
     "type": "git",
-    "url": "https://github.com/juicyfx/now-php.git"
+    "url": "https://github.com/barnebys/now-php.git"
   },
   "keywords": [
     "zeit",
