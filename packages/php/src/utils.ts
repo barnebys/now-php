@@ -111,7 +111,6 @@ async function runComposerInstall(cwd: string) {
       '--profile',
       '--no-dev',
       '--no-interaction',
-      '--no-scripts',
       '--ignore-platform-reqs',
       '--no-progress'
     ],
